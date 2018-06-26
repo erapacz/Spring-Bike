@@ -1,0 +1,11 @@
+To start run this application.
+	-Import the bike folder into STS as an existing gradle application
+	-Once that is successful, run BikeApplication.java as a java application
+		-Note this project is set up to run on port 8081 not 8080
+	-Open command prompt window
+	-Navigate to the bike-ui folder
+	-type npm start
+	-open a browser and go to localhost:4200/admin
+	-click on sign up and enter a username and password
+		-click on signup
+		-click green checkmark
